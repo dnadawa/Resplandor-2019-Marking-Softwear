@@ -1,0 +1,14 @@
+C:\Users\DULAJ\source\repos\Science Day Quiz\Science Day Quiz\bin\Debug\Science Day Quiz.exe
+C:\Users\DULAJ\source\repos\Science Day Quiz\Science Day Quiz\bin\Debug\Science Day Quiz.pdb
+C:\Users\DULAJ\source\repos\Science Day Quiz\Science Day Quiz\obj\Debug\Science Day Quiz.csprojAssemblyReference.cache
+C:\Users\DULAJ\source\repos\Science Day Quiz\Science Day Quiz\obj\Debug\Science_Day_Quiz.Form1.resources
+C:\Users\DULAJ\source\repos\Science Day Quiz\Science Day Quiz\obj\Debug\Science_Day_Quiz.Properties.Resources.resources
+C:\Users\DULAJ\source\repos\Science Day Quiz\Science Day Quiz\obj\Debug\Science_Day_Quiz.Round_2.resources
+C:\Users\DULAJ\source\repos\Science Day Quiz\Science Day Quiz\obj\Debug\Science_Day_Quiz.Round_3.resources
+C:\Users\DULAJ\source\repos\Science Day Quiz\Science Day Quiz\obj\Debug\Science Day Quiz.csproj.GenerateResource.cache
+C:\Users\DULAJ\source\repos\Science Day Quiz\Science Day Quiz\obj\Debug\Science Day Quiz.csproj.CoreCompileInputs.cache
+C:\Users\DULAJ\source\repos\Science Day Quiz\Science Day Quiz\obj\Debug\Science Day Quiz.exe
+C:\Users\DULAJ\source\repos\Science Day Quiz\Science Day Quiz\obj\Debug\Science Day Quiz.pdb
+C:\Users\DULAJ\source\repos\Science Day Quiz\Science Day Quiz\obj\Debug\Science Day Quiz.csproj.ResolveComReference.cache
+C:\Users\DULAJ\source\repos\Science Day Quiz\Science Day Quiz\obj\Debug\Science_Day_Quiz.Main.resources
+C:\Users\DULAJ\source\repos\Science Day Quiz\Science Day Quiz\obj\Debug\Science_Day_Quiz.Backup.resources
