@@ -19,3 +19,7 @@ namespace Science_Day_Quiz
         }
     }
 }
+you know what I mean??? 
+///<assign entry.Run.main();
+{static void main()
+}
