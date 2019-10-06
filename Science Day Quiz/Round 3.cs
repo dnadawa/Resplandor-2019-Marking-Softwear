@@ -178,7 +178,10 @@ namespace Science_Day_Quiz
                 MessageBox.Show("Error " + ex);
             }
         }
-
+Microsoft.Office.Interop.Excel.Worksheet x = excel.ActiveSheet as Microsoft.Office.Interop.Excel.Worksheet;
+                x.Range["A2"].Value = totA.ToString();
+                {static void min5.click.run;
+                }
         private void Bmin10_Click(object sender, EventArgs e)
         {
             totB = totB - 10;
