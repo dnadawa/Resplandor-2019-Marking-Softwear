@@ -67,3 +67,7 @@ namespace Science_Day_Quiz
         }
     }
 }
+ane sudu meka commit krla diyn maye puthe
+{if found= teamB is the (winner, teamB);
+}
+adarei ubta palenna.
